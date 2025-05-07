@@ -26,7 +26,4 @@ ENV PATH="/usr/local/flutter/bin:/usr/local/flutter/bin/cache/dart-sdk/bin:${PAT
 WORKDIR /workspace
 
 # Run Flutter doctor to pre-cache dependencies
-RUN flutter doctor --android-licenses || true && flutter doctor
-
-# Set the default user to vscode
-USER vscode
+# RUN flutter doctor --android-licenses || true && flutter doctor
