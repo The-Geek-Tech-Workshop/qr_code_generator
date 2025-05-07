@@ -10,7 +10,6 @@
         "flutter.sdkPath": "/usr/local/flutter"
       }
     }
-  },
-  "postCreateCommand": "flutter pub get",
-  "remoteUser": "vscode"
+  }
+  // "postCreateCommand": "flutter pub get"
 }
