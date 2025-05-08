@@ -10,6 +10,7 @@
         "flutter.sdkPath": "/usr/local/flutter"
       }
     }
-  }
+  },
+  "remoteUser": "ubuntu"
   // "postCreateCommand": "flutter pub get"
 }
