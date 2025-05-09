@@ -1,5 +1,4 @@
-# Use the latest Ubuntu image as the base
-FROM ubuntu:latest
+FROM ubuntu:24.04
 
 # Set Flutter version as a build argument
 ARG FLUTTER_VERSION=3.29.3-stable
